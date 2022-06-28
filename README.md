@@ -46,3 +46,12 @@ Jeff ATWOOD
 | col 3 is      | right-aligned | $1600 |deneme|
 | col 2 is      | centered      |   $12 |deneme|
 | zebra stripes | are neat      |    $1 |deneme|
+
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+
+<a href="https://gist.githubusercontent.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif">gif</a>
+
+```html
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+```
+

@@ -49,9 +49,16 @@ Jeff ATWOOD
 
 <a href="https://www.w3schools.com">Visit W3Schools</a>
 
+<!--
+<img src="https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif" />
+-->
+
 <a href="https://gist.githubusercontent.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif">gif</a>
 
 ```html
 <a href="https://www.w3schools.com">Visit W3Schools</a>
+
 ```
+<!-- <a href="http://eddiejaoude.io" target="_blank"><img src="https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif" /></a> -->
+
 
